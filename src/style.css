@@ -1,0 +1,19 @@
+.title {
+    background-color: coral;
+    text-align: center;
+    font-size: 50px;
+}
+.imageInSrc{
+    padding: 250px;
+    margin: 5px;
+    
+}
+.imageInPublic{
+    padding: 400px;
+    width: 800px;
+}
+video{
+    padding: 600px;
+    margin-top: -800px;
+    
+}
